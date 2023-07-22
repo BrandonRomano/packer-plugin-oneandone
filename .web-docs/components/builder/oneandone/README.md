@@ -2,7 +2,7 @@ Type: `oneandone`
 Artifact BuilderId: `packer.oneandone`
 
 The 1&1 Builder is able to create virtual machines for
-[1&1](https://www.1and1.com/).
+[IONOS](https://www.1and1.com/) cloud.
 
 ## Configuration Reference
 
