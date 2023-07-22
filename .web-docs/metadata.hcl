@@ -2,7 +2,7 @@
 # https://github.com/hashicorp/integration-template#metadata-configuration
 integration {
   name = "Oneandone"
-  description = "TODO"
+  description = "The 1&1 Packer Plugin is able to create virtual machines for IONOS cloud."
   identifier = "packer/BrandonRomano/oneandone"
   component {
     type = "builder"

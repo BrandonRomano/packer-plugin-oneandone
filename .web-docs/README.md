@@ -1,5 +1,4 @@
-The 1&1 Packer Plugin is able to create virtual machines for [1&1](https://www.1and1.com/). The plugin
-comes with a single builder:
+The 1&1 Packer Plugin is able to create virtual machines for IONOS cloud.
 
 ### Installation
 
