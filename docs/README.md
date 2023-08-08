@@ -23,5 +23,5 @@ packer plugins install github.com/hashicorp/oneandone
 ### Components
 
 #### Builders
-- [1&1 Builder](/packer/integrations/BrandonRomano/oneandone/latest/components/builder/oneandone)
+- [1&1 Builder](/packer/integrations/hashicorp/oneandone/latest/components/builder/oneandone)
 

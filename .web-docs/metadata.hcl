@@ -3,7 +3,7 @@
 integration {
   name = "IONOS 1&1"
   description = "The 1&1 Packer Plugin is able to create virtual machines for IONOS cloud."
-  identifier = "packer/BrandonRomano/oneandone"
+  identifier = "packer/hashicorp/oneandone"
   component {
     type = "builder"
     name = "1&1"
